@@ -8,16 +8,16 @@ This project entails the creation of an interactive dashboard using Microsoft Ex
 
 ## Features:
 
-i. Data Source: Utilized IPL dataset comprising data of 14 years.
-ii. Dashboard Creation: Developed using Microsoft Excel, providing a user-friendly interface for data exploration.
-iii. Interactive Elements: Incorporated slicers to enable users to adjust filters dynamically and obtain customized information based on their preferences.
-iv. Key Performance Indicators (KPIs): Included KPIs highlighting the winner, runner-up, and Man of the Series for the selected season, offering a quick overview of key tournament statistics.
+a. Data Source: Utilized IPL dataset comprising data of 14 years.
+b. Dashboard Creation: Developed using Microsoft Excel, providing a user-friendly interface for data exploration.
+c. Interactive Elements: Incorporated slicers to enable users to adjust filters dynamically and obtain customized information based on their preferences.
+d. Key Performance Indicators (KPIs): Included KPIs highlighting the winner, runner-up, and Man of the Series for the selected season, offering a quick overview of key tournament statistics.
 
 ## Functionality:
 
-1. Team Dynamics: Explore team-wise performance metrics, including win-loss ratios, net run rates, and head-to-head records against other franchises.
-2. Match Outcomes: Analyze match results, including margin of victories, batting and bowling highlights, and key moments that influenced the outcome.
-3. Tournament Trends: Identify trends across seasons, such as average scores, venue-wise performance variations, and the impact of toss decisions on match results.
+a. Team Dynamics: Explore team-wise performance metrics, including win-loss ratios, net run rates, and head-to-head records against other franchises.
+b. Match Outcomes: Analyze match results, including margin of victories, batting and bowling highlights, and key moments that influenced the outcome.
+c. Tournament Trends: Identify trends across seasons, such as average scores, venue-wise performance variations, and the impact of toss decisions on match results.
 
 ## How to Use:
 
