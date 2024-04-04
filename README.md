@@ -15,9 +15,9 @@ iv. Key Performance Indicators (KPIs): Included KPIs highlighting the winner, ru
 
 ## Functionality:
 
-Team Dynamics: Explore team-wise performance metrics, including win-loss ratios, net run rates, and head-to-head records against other franchises.
-Match Outcomes: Analyze match results, including margin of victories, batting and bowling highlights, and key moments that influenced the outcome.
-Tournament Trends: Identify trends across seasons, such as average scores, venue-wise performance variations, and the impact of toss decisions on match results.
+1. Team Dynamics: Explore team-wise performance metrics, including win-loss ratios, net run rates, and head-to-head records against other franchises.
+2. Match Outcomes: Analyze match results, including margin of victories, batting and bowling highlights, and key moments that influenced the outcome.
+3. Tournament Trends: Identify trends across seasons, such as average scores, venue-wise performance variations, and the impact of toss decisions on match results.
 
 ## How to Use:
 
