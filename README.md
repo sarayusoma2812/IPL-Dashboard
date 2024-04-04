@@ -8,10 +8,10 @@ This project entails the creation of an interactive dashboard using Microsoft Ex
 
 ## Features:
 
-Data Source: Utilized IPL dataset comprising data of 14 years.
-Dashboard Creation: Developed using Microsoft Excel, providing a user-friendly interface for data exploration.
-Interactive Elements: Incorporated slicers to enable users to adjust filters dynamically and obtain customized information based on their preferences.
-Key Performance Indicators (KPIs): Included KPIs highlighting the winner, runner-up, and Man of the Series for the selected season, offering a quick overview of key tournament statistics.
+i. Data Source: Utilized IPL dataset comprising data of 14 years.
+ii. Dashboard Creation: Developed using Microsoft Excel, providing a user-friendly interface for data exploration.
+iii. Interactive Elements: Incorporated slicers to enable users to adjust filters dynamically and obtain customized information based on their preferences.
+iv. Key Performance Indicators (KPIs): Included KPIs highlighting the winner, runner-up, and Man of the Series for the selected season, offering a quick overview of key tournament statistics.
 
 ## Functionality:
 
